@@ -15,7 +15,7 @@ public class Main {
         int ans = 25;
         int myAnswer = answer.nextInt();
         if (myAnswer != ans){
-            System.out.println("სამწუხაროდ თქვენი პასუხი არასწორია :/ შეიყვანეთ თავიდან");
+            System.out.println("სამწუხაროდ თქვენი პასუხი არასწორია :/ შეიყვანეთ თავიდან ");
             answer.nextInt();
         }
         else {
